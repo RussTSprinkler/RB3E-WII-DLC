@@ -1,0 +1,73 @@
+(o216949801_amillionways_ok 
+   (name "A Million Ways") 
+   (artist "OK Go") 
+   (master 1) 
+   (song 
+      (name "songs/amillionways_ok/amillionways_ok") 
+      (tracks_count 
+         (6 2 2 2 2 2)) 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6 7)) 
+            (guitar 
+               (8 9)) 
+            (vocals 
+               (10 11)) 
+            (keys 
+               (12 13)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (mute_volume -96) 
+      (mute_volume_vocals -12) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 196839) 
+   (preview 42000 72000) 
+   (rank 
+      (drum 178) 
+      (guitar 221) 
+      (bass 228) 
+      (vocals 132) 
+      (keys 1) 
+      (real_keys 1) 
+      (band 215)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2005) 
+   (rating 2) 
+   (sub_genre subgenre_alternative) 
+   (song_id 1118903187) 
+   (tuning_offset_cents 0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin 
+#ifdef CUSTOMSOURCE
+    gh 
+#else 
+    ugc_plus 
+#endif 
+   ) 
+   (encoding latin1) 
+   (album_name "Oh No") 
+   (album_track_number 7) 
+   (vocal_tonic_note 4) 
+   (song_tonality 0))

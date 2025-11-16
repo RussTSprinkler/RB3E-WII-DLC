@@ -1,0 +1,73 @@
+(o472882283_amievil_diamond 
+   (name "Am I Evil?") 
+   (artist "Diamond Head") 
+   (master 1) 
+   (song 
+      (name "songs/amievil_diamond/amievil_diamond") 
+      (tracks_count 
+         (6 2 2 2 0 2)) 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6 7)) 
+            (guitar 
+               (8 9)) 
+            (vocals 
+               (10 11)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (mute_volume -96) 
+      (mute_volume_vocals -12) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 454422) 
+   (preview 159600 189600) 
+   (rank 
+      (drum 178) 
+      (guitar 221) 
+      (bass 181) 
+      (vocals 218) 
+      (keys 0) 
+      (real_keys 0) 
+      (band 243)) 
+   (genre metal) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1982) 
+   (rating 3) 
+   (sub_genre subgenre_metal) 
+   (song_id 1118903186) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin 
+#ifdef CUSTOMSOURCE
+    gh 
+#else 
+    ugc_plus 
+#endif 
+   ) 
+   (encoding latin1) 
+   (album_name "Lightning to the Nations") 
+   (album_track_number 4) 
+   (vocal_tonic_note 9) 
+   (song_tonality 0))
