@@ -1,15 +1,9 @@
 # RB3E-WII-DLC
 
 This is a repository of DLC and Exports, converted to work in Rock Band 3 Enhanced for the Wii.
-All songs will *eventually* be pre-packaged with upgrades from the Rock Band Harmonies Project, RB3PLUS, and RB4PLUS.
+All songs are pre-packaged with upgrades from the Rock Band Harmonies Project, RB3PLUS, and RB4PLUS when applicable.
 
-The goal of this repo is to make Wii/Dolphin more accessable, and to allow songs to be in an open-folder structure for simple adding editing and upgrading.
-
-Currently, not every song is 100% compatible with Wii Hardware, but should work in Dolphin no problem!
-
-This is being fixed up right now!
-
-(fully compatible folders will have a wii.txt in them)
+The goal of this repo is to make Wii/Dolphin more accessible, and to allow songs to be in an open-folder structure for simple adding editing and upgrading.
 
 # INSTALLATION
 
@@ -84,8 +78,6 @@ While you are here, please hit Enable Emulated Memory Size Override, and drag (M
 
 Please note if you are using the WIISDSYNC folder instead for your SD Card, you will have a very bad time.
 I would highly suggest not to do this, and to follow the guide I had pasted above.
-
-(also, please note Wii to Wii online multiplayer has not been tested, but again Dolphin-to-Wii should be a-ok)
 
 # ACKNOWLEDGEMENT
 
