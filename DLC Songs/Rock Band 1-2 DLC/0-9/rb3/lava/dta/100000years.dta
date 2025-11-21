@@ -1,0 +1,57 @@
+(100000years 
+   (name "100,000 Years (Live)") 
+   (artist "KISS") 
+   (master TRUE) 
+   (context 808) 
+   (song 
+      (name "songs/100000years/100000years") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 5) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.3 -2.0 -2.0 -4.0 -4.0 -7.0 -3.5 -3.5 -1.0 -1.0 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (midi_file songs/100000years/100000years.mid)) 
+   (song_scroll_speed 2300) 
+   (bank sfx/handclap_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (preview 29468 57965) 
+   (rank 
+      (drum 405) 
+      (guitar 397) 
+      (bass 330) 
+      (vocals 258) 
+      (band 380)) 
+   (genre classicrock) 
+   (decade the70s) 
+   (vocal_gender male) 
+   (format 4) 
+   (version 1) 
+   (fake 
+      {== $SONG_VERSION 0 }) 
+   (downloaded TRUE) 
+   (game_origin rb1) 
+   (song_id 1005737) 
+   (rating 2) 
+   (short_version 0) 
+   (album_art FALSE) 
+   (year_released 1975) 
+   (album_name "Dressed To Kill Tour") 
+   (album_track_number 1) 
+   (pack_name "KISS Pack 01") 
+   (base_points 806413))
