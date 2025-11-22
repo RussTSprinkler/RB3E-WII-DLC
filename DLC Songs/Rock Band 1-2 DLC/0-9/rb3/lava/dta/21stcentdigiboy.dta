@@ -1,0 +1,63 @@
+(21stcentdigiboy 
+   (name "21st Century (Digital Boy)") 
+   (artist "Bad Religion") 
+   (master 1) 
+   (song 
+      (name "songs/21stcentdigiboy/21stcentdigiboy") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 0.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -4.0 -4.0 -4.0 -4.0 -6.0 -3.2 -3.2 -3.7 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 176152) 
+   (preview 36500 66500) 
+   (rank 
+      (band 222) 
+      (real_keys 0) 
+      (guitar 208) 
+      (real_bass 220) 
+      (drum 236) 
+      (bass 196) 
+      (keys 0) 
+      (vocals 182) 
+      (real_guitar 300)) 
+   (genre punk) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1990) 
+   (rating 2) 
+   (sub_genre subgenre_other) 
+   (song_id 1005604) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1_dlc) 
+   (encoding utf8) 
+   (album_name "Against the Grain") 
+   (album_track_number 13))
